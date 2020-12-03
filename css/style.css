@@ -1,0 +1,61 @@
+.check {
+    border: 2px solid rebeccapurple;
+}
+
+.container h1 {
+    color: #1AF;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+body {
+    background-color: #e7e7e7 !important;
+}
+
+textarea {
+    height: 200px !important;
+}
+
+form input {
+    padding-left: 40px !important;
+}
+
+form i {
+    position: relative;
+    top: -26px;
+    left: 10px;
+    float: left;
+    color: #1AF;
+}
+
+form .form-group {
+    position: relative;
+}
+
+form .astrics {
+    font-size: 25px;
+    top: 5px;
+    right: 10px;
+    position: absolute;
+    height: 0;
+    color: #1AF;
+}
+
+.form-group .custom-alert {
+    margin: 10px 0 0;
+    padding: 5px 10px;
+    display: none;
+}
+
+.sendmsg i {
+    position: relative;
+    top: 0px;
+    float: none;
+    left: -185px;
+    color: #f8f9fa;
+    ;
+}
+
+.sendmsg input {
+    padding-left: 60px !important;
+}
